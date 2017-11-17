@@ -106,7 +106,7 @@
                         "value": "[resourceGroup().location]"
                     },
                     "fileUris": {
-                        "value": "https://raw.githubusercontent.com/SrivatsaMarichi/vscode/master/VSCode.ps1"
+                        "value": "https://raw.githubusercontent.com/rakeshajjappa/DeploymentGroups/master/iis.ps1"
                     }
                 }
             },
